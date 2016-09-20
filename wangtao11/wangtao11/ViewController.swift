@@ -13,6 +13,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print(111)
+        self.craeteUI()
+    }
+    
+    func craeteUI() {
+    
     }
 
     override func didReceiveMemoryWarning() {
